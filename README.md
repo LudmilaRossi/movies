@@ -1,7 +1,7 @@
 # How can we tell if a movie will be great?
 Combining k-means clustering with decision tree on IMDb data
 
-Ever wonder how great a movie will be before its release? Recently IMDb data of 5,000+ movies was scraped with Python and published on Kaggle.com by Chuan Sun: https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
+Ever wonder how great a movie will be before its release? Recently IMDb data of 5,000+ movies was scraped with Python and published on Kaggle.com by Chuan Sun: https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
 
 # Objective
 Our objective is to find out what factors might contribute to great movies.
