@@ -5,8 +5,8 @@ Ever wonder how great a movie will be before its release? Recently IMDb data of 
 
 ## The objective is to find out what factors might contribute to great movies.
 
-### Ap#ply k-means clustering to assign movies into 5 classes
-<img src="https://drive.google.com/file/d/19MVk6gY89851kefOk2PUPPyC5kdK1WWv/view?usp=sharing" />
+### Apply k-means clustering to assign movies into 5 classes
+<img src="" />
 
 ### Construct a decision tree to classify movies based on different variables
 
